@@ -1,6 +1,6 @@
-import * as utils from'./utils/utils.js'
+const utils = require('./utils/utils.js')
 
 module.exports = { 
-    utils
+    all: utils
 }
 
