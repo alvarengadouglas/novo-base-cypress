@@ -1,7 +1,6 @@
-const linguagens = require('./linguagens.json')
-module.exports = { 
-    all: linguagens
-}
+import * as utils from'./utils/utils.js'
 
-console.log(linguagens)
+module.exports = { 
+    utils
+}
 
