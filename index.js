@@ -1,6 +1,7 @@
-const utils = require('./utils/utils.js')
+import { encriptar, decriptar } from './utils/utils.js'
 
 module.exports = { 
-    all: utils
+    encriptar,
+    decriptar
 }
 
