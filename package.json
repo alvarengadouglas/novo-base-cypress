@@ -1,0 +1,20 @@
+{
+  "name": "novo-base-cypress",
+  "version": "1.0.0",
+  "description": "Testando a criacao de um package no npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarengadouglas/novo-base-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarengadouglas/novo-base-cypress/issues"
+  },
+  "homepage": "https://github.com/alvarengadouglas/novo-base-cypress#readme"
+}
